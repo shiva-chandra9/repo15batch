@@ -1,0 +1,9 @@
+{
+	"name": "git-source",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "778b0a56-9817-4da1-b5fa-db01759862dd",
+		"tenantId": "c6da3b63-e97a-4b5b-9057-7d0a4769c7be"
+	}
+}
